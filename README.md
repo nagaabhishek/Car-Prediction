@@ -1,3 +1,2 @@
-# Car-Prediction
+# Car-Price-Prediction
 Predicting the car price
-credits: https://github.com/krishnaik06
